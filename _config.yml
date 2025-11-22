@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: The Scriptorium
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: There are many ways to be immortal.
+tagline: Imagine to Create
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Scriptorium is a digital archives for the collected and published manuscripts of the Dagitab Creative Commune."
+description: "The Scriptorium is a digital archive for the collected and published works of the Dagitab Creative Commune."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Kristoffer Noriel Ordoñez
+author: T. N. Ordoñez
 
 ##########
 # COLLECTION SETTINGS
